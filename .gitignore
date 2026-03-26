@@ -1,0 +1,25 @@
+# Ignore temporary workspace data
+temp/
+
+# macOS files
+.DS_Store
+._*
+
+# Spreadsheet data (do not upload CSV/XLS/XLSX files)
+#*.csv
+*.xls
+#*.xlsx
+*.mat
+
+# model file
+*_traces.csv
+*.nc
+*.db
+*.hddm
+
+
+# Optional: keep Python/cache and editor files out of git
+__pycache__/
+*.pyc
+.vscode/
+.idea/
