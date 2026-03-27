@@ -1,0 +1,1 @@
+I am curious about the calculation of CPP. So I downloaded the code from the public repository with CPP and understand them with the help of agent. It is just my own attempt. If i make any mistake, please let me know.
