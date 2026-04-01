@@ -1,1 +1,0 @@
-What you need is just web-access, especially DCP pattern（chrome://inspect/#remote-debugging）
