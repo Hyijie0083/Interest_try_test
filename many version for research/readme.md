@@ -1,0 +1,1 @@
+What you need is just web-access(chrome://inspect/#remote-debugging)
